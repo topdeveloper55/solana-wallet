@@ -1,0 +1,10 @@
+{
+    "extends": "next/core-web-vitals",
+    "globals": {
+        "__dirname": true
+    },
+    "parserOptions": {
+        "project": "**/tsconfig.json",
+        "sourceType": "module"
+    }
+}
